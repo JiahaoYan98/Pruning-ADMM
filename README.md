@@ -11,13 +11,6 @@ and
 Shaokai Ye, Xiaoyu Feng, Tianyun Zhang, Xiaolong Ma, Sheng Lin, Zhengang Li, Kaidi Xu, Wujie Wen, Sijia Liu, Jian Tang, Makan Fardad, Xue Lin, Yongpan Liu, Yanzhi Wang. ["Progressive DNN Compression: A Key to Achieve Ultra-High Weight Pruning and Quantization Rates using ADMM"](https://arxiv.org/pdf/1903.09769.pdf), arXiv:1903.09769
 
 
-Prerequisites
------------------------
-
-code is compatible with pytorch 1.0.0
-
-
-
 Train a model in natural setting/adversarial setting
 -----------------------
 
@@ -32,9 +25,10 @@ Train a model in natural setting/adversarial setting
 
 
 
-
-
 Compression in adversarial setting are only supported for MNIST and CIFAR10. 
 
 
+Prerequisites
+-----------------------
 
+code is compatible with pytorch 1.0.0
